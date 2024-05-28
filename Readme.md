@@ -1,5 +1,4 @@
-##Assignment 1
-
+#Assignment 1
 
 Python: JavaScript Assignment
 
@@ -15,8 +14,8 @@ Create a dynamic form validation library in JavaScript that can handle various t
 
 Build a small React or Vue application that fetches data from an API and displays it in a user-friendly way.
 
-##Assignment 2
 
+#Assignment 2
 
 JavaScript: Python/NodeJS
 
