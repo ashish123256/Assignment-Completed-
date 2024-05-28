@@ -1,7 +1,7 @@
 
 # TODO - MERN
 
-Build a RESTful API using NodeJS or Flask or Django that allows users to perform CRUD operations on a resource ( todos, etc.).
+Build a RESTful API using NodeJS that allows users to perform CRUD operations on a resource ( todos, etc.).
 
 
 # Tech Stack
